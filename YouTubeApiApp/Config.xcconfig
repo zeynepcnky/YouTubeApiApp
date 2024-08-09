@@ -1,0 +1,12 @@
+//
+//  Config.xcconfig
+//  YouTubeApiApp
+//
+//  Created by Zeynep Cankaya on 14.08.2024.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+API_KEY = AIzaSyA0Y9tY4YqIaqkbUI-fSF44pGEUfBuxcbU
+
